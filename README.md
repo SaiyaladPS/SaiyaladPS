@@ -35,6 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/374167/vite.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
