@@ -48,5 +48,5 @@
 </div>
 
 ### :writing_hand: Blog Posts :
-> - AppBCT https://gitlab.com/SaiyaladPS/app-bct
+ - AppBCT https://gitlab.com/SaiyaladPS/app-bct
 
