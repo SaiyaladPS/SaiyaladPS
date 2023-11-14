@@ -37,7 +37,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/374167/vite.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/374167/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/452091/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/373554/django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
