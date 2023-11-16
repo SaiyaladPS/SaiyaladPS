@@ -41,6 +41,7 @@
     <img src="https://www.svgrepo.com/show/452091/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/373554/django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
