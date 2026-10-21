@@ -1,51 +1,173 @@
-### Hi there I'm Siayalad PH ro Mona 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media2.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif?cid=ecf05e47z4jl9dwz74l8muug2ya5s48mfrfhdwrctog7flzk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
-  <img src="https://img.shields.io/badge/whatsapp-02F702?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp Badge"/>
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  <img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SaiyaladPS&style=flat-square&color=blue" alt=""/>
-</div>
-
-### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/354575/xampp.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html 5" alt="Html 5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/374067/scss2.svg" title="scss" alt="scss" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/374167/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/452091/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/373554/django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
+
+# Hi there, I'm Saiyalad PH 👋
+
+### Full Stack Developer | Software Engineer | Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Mobile+Application+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="Developer Animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SaiyaladPS&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
-### :writing_hand: Blog Posts :
- - AppBCT https://gitlab.com/SaiyaladPS/app-bct
+---
 
+## 👨‍💻 About Me
+
+- 💻 Passionate about **Software Development**
+- 🌐 Building modern **Web Applications**
+- 📱 Interested in **Mobile App Development**
+- 🤖 Exploring **AI, Computer Vision & Automation**
+- 🚀 Always learning and improving my skills
+- 🤝 Open to collaborating on interesting projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/SaiyaladPS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://gitlab.com/SaiyaladPS">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+</div>
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,dart,html,css&theme=dark" alt="Programming Languages"/>
+
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,materialui,jquery,scss,vite&theme=dark" alt="Frontend Technologies"/>
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase&theme=dark" alt="Backend Technologies"/>
+
+</div>
+
+### 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,ionic&theme=dark" alt="Mobile Technologies"/>
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+
+</div>
+
+### 🤖 Computer Vision & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv,git,github,gitlab,vscode,postman&theme=dark" alt="Developer Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiyaladPS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiyaladPS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SaiyaladPS&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiyaladPS&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 AppBCT
+
+A software development project hosted on GitLab.
+
+**Repository:**
+
+[![GitLab](https://img.shields.io/badge/View_Project-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SaiyaladPS/app-bct)
+
+---
+
+## 💡 Developer Quote
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ❤️
+
+**Keep Learning • Keep Building • Keep Growing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
