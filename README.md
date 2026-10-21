@@ -71,13 +71,13 @@ const developer = {
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,dart,html,css&theme=dark&perline=8" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,dart,html,css,c,cpp,cs,go&theme=dark&perline=8" alt="Programming Languages"/>
 
 <br/>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,materialui,jquery,scss,vite&theme=dark&perline=7" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,materialui,jquery,scss,vite,next,nuxt,vue&theme=dark&perline=7" alt="Frontend Stack"/>
 
 <br/>
 
