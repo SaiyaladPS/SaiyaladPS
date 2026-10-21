@@ -95,7 +95,7 @@ const developer = {
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=2" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,prisma,redis&theme=dark&perline=2" alt="Databases"/>
 
 <br/>
 
