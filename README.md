@@ -83,7 +83,7 @@ const developer = {
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase&theme=dark&perline=4" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,flask&theme=dark&perline=4" alt="Backend Stack"/>
 
 <br/>
 
@@ -101,7 +101,7 @@ const developer = {
 
 ### 🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,opencv&theme=dark&perline=6" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,opencv,docker&theme=dark&perline=6" alt="Development Tools"/>
 
 <br/>
 
