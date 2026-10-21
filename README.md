@@ -105,6 +105,9 @@ const developer = {
 
 <br/>
 
+### IOT
+<img scr="https://skillicons.dev/icons?i=arduino&theme=dark&perline=6" alt="IOT"/>
+
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 
 </div>
